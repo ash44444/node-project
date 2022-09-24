@@ -2,6 +2,7 @@
   "name": "server",
   "version": "1.0.0",
   "description": "",
+    "homepage": "https://ash44444.github.io/node-project",
   "main": "app.js",
   "scripts": {
     "server": "nodemon app",
